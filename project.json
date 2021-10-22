@@ -1,0 +1,25 @@
+{
+    "name": "fwa06manyam",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "node ./bin/www"
+    },
+    "dependencies": {
+      "cookie-parser": "~1.4.4",
+      "debug": "^4.3.2",
+      "express": "^4.17.1",
+      "http-errors": "^1.8.0",
+      "morgan": "^1.10.0",
+      "pug": "^3.0.2"
+    },
+    "description": "webapps-f21-assignment-9-manyamsrk",
+    "main": "app.js",
+    "repository": {
+      "type": "git",
+      "url": "webapps-f21-assignment-9-manyamsrk"
+    },
+    "author": "siva rama krishna manyam",
+    "license": "ISC"
+  }
+  
