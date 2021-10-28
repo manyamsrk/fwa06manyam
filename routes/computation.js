@@ -8,7 +8,7 @@ var sqrt;
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-    rno = Math.round(Math.random()*(100-1)+1);
+    rno = Math.random();
     acosh = Math.acosh(rno);
     log1p = Math.log1p(rno);
     tan = Math.tan(rno);
